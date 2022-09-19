@@ -1,0 +1,9 @@
+@import "../_snowpack/pkg/tailwindcss/dist/base.css";
+@import "../_snowpack/pkg/tailwindcss/dist/components.css";
+@import "../_snowpack/pkg/tailwindcss/dist/utilities.css";
+
+.myClass {
+ color: grey;
+ font-size: 12px;
+ 
+} 
