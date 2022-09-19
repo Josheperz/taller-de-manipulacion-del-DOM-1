@@ -1,3 +1,9 @@
 @import 'tailwindcss/dist/base.css';
 @import 'tailwindcss/dist/components.css';
 @import 'tailwindcss/dist/utilities.css';
+
+.myClass {
+ color: grey;
+ font-size: 12px;
+ 
+} 
